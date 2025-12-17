@@ -1,0 +1,5 @@
+{
+  "name": "ReelForge - Dynamic Reel Editor",
+  "description": "A professional tool to dynamically overlay address and contact details onto vertical video reels. Features real-time preview, HD export, and client-side processing.",
+  "requestFramePermissions": []
+}
